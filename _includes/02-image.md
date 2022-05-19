@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Australia](https://s3-ap-southeast-2.amazonaws.com/geg-sia-webapp2/library/assets/images/About-australia2.jpg "Australia")
